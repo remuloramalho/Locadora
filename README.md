@@ -8,10 +8,6 @@ Bem-vindo à Locadora de Filmes CineHome! Este repositório contém os melhores 
 - Catálogo diversificado de filmes em vários gêneros
 - Possibilidade de adicionar filmes à lista de favoritos
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
 ## Contribuição
 Estamos felizes em receber contribuições! Se você quiser contribuir para o desenvolvimento do CineHome, Me envie um PIX :)
 87996530011 TEL.
